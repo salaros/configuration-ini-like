@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.IO;
 using Microsoft.Extensions.Configuration;
-using Salaros.Config;
 
 namespace Salaros.Configuration.IniLike
 {
